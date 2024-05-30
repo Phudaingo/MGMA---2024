@@ -1,2 +1,5 @@
 # MGMA---2024
 Material for MICROBIAL GENOME &amp; MICROBIOME ANALYSIS COURSE
+  - Slide 
+  - H5N1 
+  - H7N2  
